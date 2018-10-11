@@ -97,3 +97,4 @@ if (!empty(TOKEN) && isset($_SERVER["HTTP_X_HUB_SIGNATURE"]) && $token !== hash_
 
 fputs($file, "\n\n" . PHP_EOL);
 fclose($file);
+?>
