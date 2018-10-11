@@ -1,4 +1,4 @@
-# git-deploy
+# git-deploy using webhook
 
 A PHP script to automatically pull from a repository to a web server (using a webhook on GitHub, GitLab, or Bitbucket).
 
@@ -86,5 +86,3 @@ Click "Save" to save your settings, and the script should start working.
 ![Example screenshot showing Bitbucket webhook settings](https://cloud.githubusercontent.com/assets/1123997/25353602/7aee9cde-28f5-11e7-9baa-eb1e1330017e.png)
 
 ---
-
-I appreciate the collaboration of @JacobDB
